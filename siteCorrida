@@ -1,13 +1,83 @@
-<!DOCTYPE HTML>
-
+<DOCTYPE>
 <html>
+<head>
+  <meta charset="utf-8">
+      <title>CORRIDA PIAGET</title>
+      <link rel="stylesheet" type="text/css" href="corrida.css">
+    </head>
+<body>
+<header id="titulo">
+  <h2>CORRIDA DO ANO</h2>
+   <h3> Professores e Alunos</h3> </div>
+ </header>
+ <nav id="navegacao">
+<ul>
+  <li><a href="home.html"> Inicio</a><li>
+  <li><a href="eventos.html"> Eventos</a><li>
+  <li><a href="Registo.html"> Registo</a><li>
+  <li><a href="Galareia.html"> Galareia</a><li>
+  <li><a href="FAQS.html"> FAQS</a><li>
+  <li><a href="Conctatos.html"> Conctatos</a><li>
+  </ul>
+</nav>
+<meta charset="utf-8">
+  <header>
+    <article id=artigo_1">
+      <header>
+        <h3>Historia</h3>
+      </header>
+      <p>
+      A corrida que atualmente realiza-se no Instituto Piaget teve origem em 1980, um ano
+      após a constituição da escola em Portugal.
+      Começou primeiramente por ser um desafio colocado por um Aluno de Enfermagem
+      ao seu Professor no âmbito da disciplina de Motrocidade e Saúde
+      Física.
+      Desde então o Instituto organiza anualmente esta prova já conhecida
+      a nivel nacional onde participam Alunos e Professores.
+      </p>
+    </article>
 
-	<head>
-		<title>CORRIDA PIAGET</title>
-		<link rel="stylesheet" type="text/css" href="corrida.css">
-	</head>
+    <article id=artigo_2">
+      <header>
+        <h3>Calendario da Prova</h3>
+      </header>
+    <li>Dia 26/11/2019</li>
+    <li>Abertura as 8h00 </li>
+   <li>Inicio da prova as 8h30 ate 9h30</li>
+    </article>
 
-	<body>
-  <p>Pagina</p>
-  </body>
+    <article id=artigo_3">
+      <header>
+        <header><h3>Organização</h3></header>
+      </header>
+    <header><h4>Disponibilizamos:</h4></header>
+    <li>Maçãs</li>
+    <li>Aguas</li>
+   <li>Cracha</li>
+    <header><h3>Equipamento necessario<h3></header>
+    <li>Camisola</li>
+    <li>Calções</li>
+    <li>Tenis</li>
+    </article>
+
+  </section>
+<article id=artigo_4">
+  <aside id="Premios">
+    <header><h3>Prémios</h4></header>
+    <li>Medalha de 1º</li>
+      <li>Medalha de 2º</li>
+      <li>Medalha de 3º</li>
+      <li>Os restantes Participantes receberam um autografo da Rosa Mota</li>
+</article>
+    <footer>Criada ás 12h 30m</footer>
+  </aside>
+
+  <footer id="rodape_final">
+
+  <small>Webmaster: Carlos</small>
+
+</div>
+
+</body>
+
 </html>
